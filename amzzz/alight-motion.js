@@ -22,7 +22,7 @@ objc = {
         "autoRenewing": true,
         "orderNumber": "⭐呆呆玉玉米 ovo 专属 其余均为假冒倒卖  ⭐",
         "productId": "alightcreative.motion.1y_t60_1w",
-        "period": "1y",
+        "period": "99y",
         "label": null,
         "details": null,
         "expires": 1740926942000,
